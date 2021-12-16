@@ -6,7 +6,8 @@ Apache Spark is known as a fast, easy-to-use and general engine for big data pro
 
 In-Memory computation and Parallel-Processing are some of the major reasons that Apache Spark has become very popular in the big data industry to deal with data products at large scale and perform faster analysis. built on top of Spark, MLlib is a scalable Machine Learning library that delivers both high-quality algorithms and blazing speed. 
 
-
+Spark has significantly improved and revolutionized the machine learning by allowing data scientists to concentrate on the data challenges that matter to them. 
+ 
 ## Machine Learning Library (MLlib)
 
 - Data types
